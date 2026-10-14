@@ -90,12 +90,16 @@ Etapa planejada para desenvolver um dashboard interativo com indicadores, gráfi
 
 ## 📊 Perguntas que o projeto busca responder
 
-1. Qual faixa etária apresenta o maior faturamento?
-2. Quais produtos e sabores possuem maior volume de vendas?
-3. Quais produtos geram maior faturamento?
-4. Quais canais e regiões apresentam melhores resultados?
-5. Como o desempenho das vendas varia entre 2025 e 2026?
+1. Quanto faturou no total?
+2. Quantas unidades venderam mais?
+3. Qual valor médio por produto?
+4. Qual sabor mais fatura?
+5. Como o faturamento evolui mês a mês e ano a ano?
 6. Quais oportunidades podem ser investigadas a partir dos dados?
+7. Quanto faturamos for faixa etária?
+8. Quantas unidades foram consumidas e por quantos consumidores?
+9. Qual a participação de cada faixa etária no consumo?
+10. Como o faturamento de cada faixa etária evolui no tempo?
 
 ## 📈 Resultados esperados
 
@@ -103,7 +107,6 @@ Ao final do projeto, espera-se obter:
 
 - Uma base de dados explorada e validada.
 - Consultas SQL para responder às perguntas de negócio.
-- Indicadores de desempenho comercial.
 - Um dashboard interativo no Power BI.
 - Uma documentação clara das análises e das conclusões obtidas.
 
@@ -119,14 +122,3 @@ O desenvolvimento deste projeto permite praticar:
 - Validação e qualidade dos dados.
 - Raciocínio analítico aplicado a Marketing e Vendas.
 - Integração entre Python, SQL e Power BI.
-
-## 📌 Status do projeto
-
-**Em desenvolvimento.**
-
-A base de dados já foi criada e as análises exploratórias com Python e Pandas estão em andamento. As etapas de SQL e Power BI estão previstas para a continuidade do projeto.
-
----
-
-Desenvolvido como projeto de aprendizado em **Análise de Dados**, com foco em transformar dados em informações úteis para decisões de negócio.
-
